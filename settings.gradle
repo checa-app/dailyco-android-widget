@@ -1,0 +1,3 @@
+rootProject.name='Daily.co android'
+include ':app'
+include ':widget'
